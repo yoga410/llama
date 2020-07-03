@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/llama.jpg");
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: cursive;
+    background-color: darkcyan;
+    border-radius: 5px;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+#container {
+    background: black;
+    color: azure;
+    padding: 20px;
+    width: 450px;
+}
